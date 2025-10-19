@@ -1,0 +1,5 @@
+Q1: What do .. and -R mean?
+
+Answer:
+- ".." refers to the parent directory of the current directory.
+- "-R" means recursive, so it copies the entire directory and its contents (including subdirectories).
